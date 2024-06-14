@@ -1,0 +1,26 @@
+body {
+  background: #1c1d26 url("../images/background.jpg") no-repeat center / cover;
+  font-family: Tahoma, Verdana, Arial, Sans-serif;
+  height: 100vh;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+body {
+  color: white;
+}
+#content {
+  width: 950px;
+  height: auto;
+  position: fixed;
+  left: 50%;
+  top: 50%;
+  transform-origin: left top;
+  padding: 1em;
+}
+.star {
+  margin-bottom: 40px;
+}
