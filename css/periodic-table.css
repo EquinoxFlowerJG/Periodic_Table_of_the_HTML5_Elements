@@ -71,10 +71,8 @@ table#elements td {
 
 ul#legend .icon,
 table#elements td .icon {
-  /* background: white url("/images/periodic-table/background.png") bottom left
-    repeat-x; */
-  background-color: rgb(29, 28, 25);
-  color: rgb(255, 253, 221);
+  background-color: rgb(255, 253, 221);
+  color: black;
   cursor: pointer;
   display: block;
   font-size: 0.9em;
